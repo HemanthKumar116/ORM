@@ -49,7 +49,7 @@ class Movie(models.Model):
 
 ## OUTPUT
 
-![alt text](<Screenshot (351).png>)
+![alt text](<Screenshot (357).png>)
 
 
 ## RESULT
